@@ -16,7 +16,7 @@ The board is designed to provide stable power distribution to the Micromouse rob
 ---
 
 ##  Tools Used
-- **PCB Design Software:** KiCad (or replace with Altium / EasyEDA if you used something else)  
+- **PCB Design Software:** Altium  
 - **Version Control:** Git + GitHub  
 
 ---
@@ -30,7 +30,6 @@ The board is designed to provide stable power distribution to the Micromouse rob
 ---
 
 ## 📸 PCB Preview
-_Add an image of your PCB here (export from your PCB software and save as `.png` in `images/` folder):_
 
 ![Micromouse Power PCB](powerpcb_3D.png)
 
