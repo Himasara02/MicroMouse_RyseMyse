@@ -37,7 +37,7 @@ The board is designed to provide stable power distribution to the Micromouse rob
 ![PCB Top](powerpcb_2D.png)
 
 ### PCB 3D View
-![PCB 3D](powerpcb__3D.png)
+![PCB 3D](powerpcb_3D.png)
 
 ### Schematic
 ![Schematic](schematic.png)
